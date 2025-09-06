@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #212121;
+}
+
+.box{
+    width: 924px;
+    height: 378px;
+    background-color: #E6F0FF;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+.button {
+    background-color: #0D6EFD; 
+    width: 114px;
+    height: 64px;
+    border-radius: 32px;
+    align-items: center;
+    justify-content: center;
+    color: #E6F0FF;
+    border: none;
+
+}
+h4, h2 {
+    margin: 1;
+    padding: 1;
+}
